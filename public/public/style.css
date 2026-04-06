@@ -1,0 +1,12 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+
+:root{
+  --navy:#1b2a4a;--navy-lt:#2d4373;--navy-soft:#3b5998;
+  --gold:#c9952d;--gold-lt:#dbb45c;--gold-glow:#fdf6e3;
+  --sand:#f8f5f0;--sand-dk:#ece7de;--sand-warm:#faf8f4;
+  --white:#fff;--ink:#1a1a1a;--ink-mid:#3a3a3a;--ink-soft:#6b6b6b;--ink-muted:#a0a0a0;
+  --heading:'Merriweather','Georgia',serif;
+  --body:'Nunito Sans','Segoe UI',Helvetica,Arial,sans-serif;
+  --r:10px;--r-lg:16px;--r-xl:22px;
+  --sh:0 2
